@@ -1,1 +1,1 @@
-My first README
+‘This repository contains solutions to shell tasks’
